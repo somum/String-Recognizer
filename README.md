@@ -8,3 +8,7 @@ An Optical Character Recognizer android system. Its easy to capture from anywher
 >Saving Data with Sharing Option
 
 Used Tools : Java, XML, SQLite, Google Vision API, Android studio
+
+<h2>Snap of Project</h2>
+
+![](screenshot.jpg)
